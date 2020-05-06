@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background: rgb(36,179,101);
+  background: linear-gradient(90deg, rgba(36,179,101,1) 21%, rgba(0,255,194,1) 89%);
+}
+
+h1 {
+ font-family: 'SEGA LOGO FONT';
+}
